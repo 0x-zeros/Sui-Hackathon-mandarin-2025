@@ -19,7 +19,7 @@
 - [项目代码2](**)
 
 - [PPT]()
-- [在线地址]()
+- [在线地址](https://www.web3tycoon.com/, https://web3tycoon.wal.app/)
 
 ## 其他附加说明
 >> 你想说什么
