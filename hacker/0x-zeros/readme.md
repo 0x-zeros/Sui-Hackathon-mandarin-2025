@@ -6,7 +6,7 @@
 
 ## 参与赛道
 - [x] Sui官方赛道
-- [x] Bucket赛道
+- [ ] Bucket赛道
 - [x] Scallop赛道
 - [x] Navi赛道
 
@@ -15,11 +15,12 @@
 > 自我介绍&技术栈: 游戏开发程序员， sui move开发，python开发等
 
 ## 参赛信息
-- [项目代码1](*8) https://github.com/0x-zeros/web3-tycoon
-- [项目代码2](**)
+- [项目代码1](https://github.com/0x-zeros/web3-tycoon)
+- [合约地址]( https://suivision.xyz/package/0xb40c31c9227c35f5d9010f94404a46d44233e8249402b06b0779f8cc8b1aec1b)
 
-- [PPT]()
-- [在线地址](https://www.web3tycoon.com/, https://web3tycoon.wal.app/)
+<!-- - [PPT]() -->
+- [在线地址](https://www.web3tycoon.com/)
+- [在线地址2](https://web3tycoon.wal.app/)
 
 ## 其他附加说明
 >> 你想说什么
